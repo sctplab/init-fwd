@@ -10,14 +10,14 @@
      submissionType="IETF"
      consensus="true"
      category="std"
-     docName="draft-tuexen-tsvwg-sctp-init-fwd-03"
+     docName="draft-tuexen-tsvwg-sctp-init-fwd-04"
      version="3">
 
 <front>
 <title abbrev='INIT forwarding for SCTP'>
 INIT Forwarding for the Stream Control Transmission Protocol
 </title>
-<seriesInfo name="Internet-Draft" value="draft-tuexen-tsvwg-sctp-init-fwd-03"/>
+<seriesInfo name="Internet-Draft" value="draft-tuexen-tsvwg-sctp-init-fwd-04"/>
 
 <author initials="M." surname="Tüxen" fullname="Michael Tüxen">
   <organization abbrev='Münster Univ. of Appl. Sciences'>
